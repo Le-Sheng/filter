@@ -21,4 +21,4 @@ median_filter average_filter gauss_filter whith Cpp
 
 - 3\*3 0.8 高斯滤波
 
-![3\*3 高斯滤波](filter/gauss_res_3.jpg)
+![3\*3 高斯滤波](filter/gauss_res_3_0.8.jpg)
