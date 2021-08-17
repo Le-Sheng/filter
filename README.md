@@ -6,3 +6,5 @@ median_filter average_filter gauss_filter whith Cpp
 - 中值滤波法是一种非线性平滑技术，可以有效消除孤立噪声点
 - 高斯滤波是一种线性平滑滤波，适用于消除高斯噪声。
 - 对于均值滤波，作用有限，只是简单取均值，只能轻微地减弱噪声，有待进一步考量。
+
+![img](./filter./test.jpg)
