@@ -8,5 +8,17 @@ median_filter average_filter gauss_filter whith Cpp
 - 对于均值滤波，作用有限，只是简单取均值，只能轻微地减弱噪声，有待进一步考量。
 
 - 原图
+
 ![原图](filter/test.jpg)
+
 - 3\*3 均值滤波
+
+![3\*3 均值滤波](filter/average_res_3.jpg)
+
+- 3\*3 中值滤波
+
+![3\*3 中值滤波](filter/median_res_3.jpg)
+
+- 3\*3 0.8 高斯滤波
+
+![3\*3 高斯滤波](filter/gauss_res_3.jpg)
